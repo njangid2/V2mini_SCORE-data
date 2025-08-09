@@ -1,4 +1,5 @@
 Satellite Solar Array Orientation Optimization
+
 This script estimates the optimal solar array orientation for satellites by matching observed apparent magnitudes with BRDF-based brightness simulations using LUMOS and numerical optimization.
 
 How it works
